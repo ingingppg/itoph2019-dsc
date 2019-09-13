@@ -16,18 +16,14 @@
 ---
 
 ## Team Members
-|![ingingppg](ingingppg.jpg)|great|choke|chen|pear|non|
-|:-:|:---:|:--:|:-:|:--:|:---:|
-|[ingingppg](https://github.com/ingingppg)|great|choke|chen|pear|non|
-|ฐิติรัตน์<br>จั่นพะระศรี|มรรษกร<br>อักษรสิริ|ธีรวัต<br>กาญจนปานวงษ์|ราเชนทร์<br>เขียวงาม|สิดาพร<br>น้ำจันทร์|ณัฐชนน<br>ญาโณทัย|
-|key|pun|pon|santa|earn|mai|
-|:--:|:---:|:--:|:-:|:--:|:-:|
-|key|pun|pon|santa|earn|mai|
-|นิรันตรี<br>ปรุรัตน์|ปุลวัชร<br>ลี้เจริญ|พลัฏฐ์<br>วงศ์สิทธิพรรุ่ง|ชวัลวิทย์<br>ศรีอัมพร|ณัฏชยาภรณ์<br>เซี่ยงคิ้ว|สมิทธิ์<br>เฉียบแหลม|
-|film|tent| | | | |
-|:--:|:---:|:--:|:-:|:--:|:-:|
-|film|tent| | | | |
-|วีรวัฒน์<br>บัวชุม|นลินี<br>เข็มทอง| | | | |
+|![ingingppg](ingingppg.jpg)|great|choke|chen|pear|
+|:-:|:-:|:-:|:-:|:-:|
+|[ingingppg](https://github.com/ingingppg)|great|choke|chen|pear|
+|ฐิติรัตน์<br>จั่นพะระศรี|มรรษกร<br>อักษรสิริ|ธีรวัต<br>กาญจนปานวงษ์|ราเชนทร์<br>เขียวงาม|สิดาพร<br>น้ำจันทร์|
+|non|win|key|pun|pon|
+|ณัฐชนน<br>ญาโณทัย|ธนาวิน<br>บุญถนอม|นิรันตรี<br>ปรุรัตน์|ปุลวัชร<br>ลี้เจริญ|พลัฏฐ์<br>วงศ์สิทธิพรรุ่ง|
+|santa|earn|mai|film|tent|
+|ชวัลวิทย์<br>ศรีอัมพร|ณัฏชยาภรณ์<br>เซี่ยงคิ้ว|สมิทธิ์<br>เฉียบแหลม|วีรวัฒน์<br>บัวชุม|นลินี<br>เข็มทอง|
 
 ## Special Thanks
 |![kanokwan](kanokwan.jpg)|
