@@ -16,11 +16,11 @@
 ---
 
 ## Team Members
-|![ingingppg](ingingppg.jpg)|![great](great.jpg)|![choke](choke.jiff)|![chen](chen.jpg)|![pear](pear.jpg)|
+|![ingingppg](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/ingingppg.jpg)|![great](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/great.jpg)|![choke](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/choke.jpg)|![chen](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/chen.jpg)|![pear](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/pear.jpg)|
 |:-:|:-:|:-:|:-:|:-:|
 |[ingingppg](https://github.com/ingingppg)| |[Chokcolate](https://github.com/Chokcolate)| | |
 |ฐิติรัตน์<br>จั่นพะระศรี|มรรษกร<br>อักษรสิริ|ธีรวัต<br>กาญจนปานวงษ์|ราเชนทร์<br>เขียวงาม|สิดาพร<br>น้ำจันทร์|
-| |![win](win.jpg)| | | |
+| |![win](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/win.jpg)| | | |
 | | | | | |
 |ณัฐชนน<br>ญาโณทัย|ธนาวิน<br>บุญถนอม|นิรันตรี<br>ปรุรัตน์|ปุลวัชร<br>ลี้เจริญ|พลัฏฐ์<br>วงศ์สิทธิพรรุ่ง|
 | | | | | |
@@ -28,6 +28,6 @@
 |ชวัลวิทย์<br>ศรีอัมพร|ณัฏชยาภรณ์<br>เซี่ยงคิ้ว|สมิทธิ์<br>เฉียบแหลม|วีรวัฒน์<br>บัวชุม|นลินี<br>เข็มทอง|
 
 ## Special Thanks
-|![kanokwan](kanokwan.jpg)|
+|![kanokwan](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/Kanokwan.jpg)|
 |:-:|
 |ผศ.ดร. กนกวรรณ อัจฉริยะชาญวณิช|
