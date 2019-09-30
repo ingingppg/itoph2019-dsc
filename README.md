@@ -22,7 +22,7 @@
 |ฐิติรัตน์<br>จั่นพะระศรี|มรรษกร<br>อักษรสิริ|ธีรวัต<br>กาญจนปานวงษ์|ราเชนทร์<br>เขียวงาม|สิดาพร<br>น้ำจันทร์|
 |![non](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/non.jpg)|![win](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/win.jpg)|![key](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/key.jpg)|![pun](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/pun.jpg)|![pon](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/pon.jpg)|
 | | | | | |
-|ณัฐชนน<br>ญาโณทัย|ธนาวิน<br>บุญถนอม|นิรันตรี<br>ปรุรัตน์|ปุลวัชร<br>ลี้เจริญ|พลัฏฐ์<br>วงศ์สิทธิพรรุ่ง|
+|ณัฐชนน<br>ญาโณทัย|ธนาวินธ์<br>บุญถนอม|นิรันตรี<br>ปรุรัตน์|ปุลวัชร<br>ลี้เจริญ|พลัฏฐ์<br>วงศ์สิทธิพรรุ่ง|
 |![santa](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/santa.jpg)|![earn](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/earn.jpg)|![mei](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/mei.jpg)|![film](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/film.jpg)|![tent](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/tent.jpg)|
 | | | | | |
 |ชวัลวิทย์<br>ศรีอัมพร|ณัฏชยาภรณ์<br>เซี่ยงคิ้ว|สมิทธิ์<br>เฉียบแหลม|วีรวัฒน์<br>บัวชุม|นลินี<br>เข็มทอง|
