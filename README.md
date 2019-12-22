@@ -16,18 +16,18 @@
 ---
 
 ## Team Members
-|![ingingppg](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/ingingppg.jpg)|![great](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/great.jpg)|![choke](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/choke.jpg)|![chen](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/chen.jpg)|![pear](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/pear.jpg)|
+|![ingingppg](/assets/staff/ingingppg.jpg)|![great](/assets/staff/great.jpg)|![choke](/assets/staff/choke.jpg)|![chen](/assets/staff/chen.jpg)|![pear](/assets/staff/pear.jpg)|
 |:-:|:-:|:-:|:-:|:-:|
 |[ingingppg](https://github.com/ingingppg)| |[Chokcolate](https://github.com/Chokcolate)| | |
 |ฐิติรัตน์<br>จั่นพะระศรี|มรรษกร<br>อักษรสิริ|ธีรวัต<br>กาญจนปานวงษ์|ราเชนทร์<br>เขียวงาม|สิดาพร<br>น้ำจันทร์|
-|![non](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/non.jpg)|![win](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/win.jpg)|![key](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/key.jpg)|![pun](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/pun.jpg)|![pon](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/pon.jpg)|
+|![non](/assets/staff/non.jpg)|![win](/assets/staff/win.jpg)|![key](/assets/staff/key.jpg)|![pun](/assets/staff/pun.jpg)|![pon](/assets/staff/pon.jpg)|
 | | | | | |
 |ณัฐชนน<br>ญาโณทัย|ธนาวินท์<br>บุญถนอม|นิรันตรี<br>ปรุรัตน์|ปุลวัชร<br>ลี้เจริญ|พลัฏฐ์<br>วงศ์สิทธิพรรุ่ง|
-|![santa](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/santa.jpg)|![earn](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/earn.jpg)|![mei](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/mei.jpg)|![film](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/film.jpg)|![tent](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/tent.jpg)|
+|![santa](/assets/staff/santa.jpg)|![earn](/assets/staff/earn.jpg)|![mei](/assets/staff/mei.jpg)|![film](/assets/staff/film.jpg)|![tent](/assets/staff/tent.jpg)|
 | | | | | |
 |ชวัลวิทย์<br>ศรีอัมพร|ณัฏชยาภรณ์<br>เซี่ยงคิ้ว|สมิทธิ์<br>เฉียบแหลม|วีรวัฒน์<br>บัวชุม|นลินี<br>เข็มทอง|
 
 ## Special Thanks
-|![kanokwan](https://github.com/ingingppg/itoph2019-dsc/blob/master/img/Kanokwan.jpg)|
+|![kanokwan](/assets/staff/Kanokwan.jpg)|
 |:-:|
 |ผศ.ดร. กนกวรรณ อัจฉริยะชาญวณิช|
