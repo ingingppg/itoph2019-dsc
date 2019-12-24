@@ -31,3 +31,5 @@
 |![kanokwan](/assets/staff/Kanokwan.jpg)|
 |:-:|
 |ผศ.ดร. กนกวรรณ อัจฉริยะชาญวณิช|
+
+<br><br>[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
